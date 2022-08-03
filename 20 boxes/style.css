@@ -6,7 +6,6 @@ div {
     padding: 20px;
     display: flex;
     column-gap: 10px;
-
 }
 .second {
     background-color: orangered;
@@ -18,9 +17,4 @@ button {
     padding: 20px;
     justify-content: space-around;
     align-items: center;
-    
-    
-
-
-
 }
